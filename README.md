@@ -1,6 +1,6 @@
 # HackQuestion - Life Hack or Urban Myth Quiz
 
-## Student Information
+## ST10499880
 
 **Name:** Lelethu Rasmeni
 
@@ -95,21 +95,19 @@ MainActivity
 ## Screenshots
 
 ### Welcome Screen
-(Add Screenshot Here)
+
 
 ### Quiz Screen
-(Add Screenshot Here)
+
 
 ### Score Screen
-(Add Screenshot Here)
+
 
 ### Review Screen
-(Add Screenshot Here)
+
 
 ### GitHub Actions Workflow
-(Add Screenshot Here)
 
----
 
 ## GitHub Repository
 
